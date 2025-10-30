@@ -1,9 +1,0 @@
-{
-  "name": "raccoon_hap_bridge",
-  "version": "1.0.0",
-  "main": "index.js",
-  "dependencies": {
-    "express": "^5.1.0",
-    "hap-nodejs": "^1.2.0"
-  }
-}
