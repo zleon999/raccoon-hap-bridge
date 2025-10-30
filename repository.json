@@ -1,0 +1,9 @@
+{
+  "name": "Raccoon HAP Add-on Repo",
+  "slug": "raccoon_hap_repo",
+  "url": "https://github.com/dein-benutzername/raccoon-hap-bridge",
+  "maintainer": "Dein Name oder GitHub Benutzername",
+  "addons": [
+    "raccoon_hap_bridge"
+  ]
+}
